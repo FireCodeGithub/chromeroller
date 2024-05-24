@@ -9,7 +9,7 @@
   },
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "icon.svg"
+    "default_icon": "chromeroller_icon.svg"
   },
   "content_scripts": [
     {
@@ -18,6 +18,6 @@
     }
   ],
   "icons": {
-    "128": "icon.svg"
+    "128": "chromeroller_icon.svg"
   }
 }
